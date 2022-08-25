@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divyambohra
 - 👀 I’m interested in Cloud Computing, Data Structure and Algorithms and Quantum Computing.
-- 🌱 I’m currently learning Clou Computing and DSA.
+- 🌱 I’m currently learning Cloud Computing and DSA.
 - 📫 My linkedin profile is by my name Divyam Bohra.
 
 <!---
